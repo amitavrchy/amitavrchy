@@ -1,4 +1,5 @@
-![Blue And Green Professional Technology LinkedIn Banner](https://github.com/amitavrchy/amitavrchy/assets/155712340/0a0da857-d920-4e65-a66d-0f30a7577e08)
+![Blue And Green Professional Technology LinkedIn Banner (1)](https://github.com/amitavrchy/amitavrchy/assets/155712340/be77d77c-36e0-4aec-b349-90606fb48c2b)
+
 
 <h1 align="center">Hi 👋, I'm Amitav Roy Chowdhury</h1>
 <h3 align="center">A passionate frontend developer from Uttara, Dhaka, Bangladesh.</h3>
