@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-amitavrchy.web.app](https://portfolio-amitavrchy.web.app)
 
-- 💬 Ask me about **react, redux, nodeJS,mongoDB.**
+- 💬 Ask me about **reactJS, nextJS, remixJS, redux, nodeJS, PHP, mySQL, prisma, mongoDB.**
 
 - 📫 How to reach me **amitavrchy01@gmail.com**
 
