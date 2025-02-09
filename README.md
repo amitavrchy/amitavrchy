@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Amitav Roy Chowdhury</h1>
 <h3 align="center">A passionate frontend developer from Uttara, Dhaka, Bangladesh.</h3>
 
-- 🔭 I’m currently working with **MERN Stack Development.**
+- 🔭 I’m currently working with **MERN Stack Development, Shopify Development and Wordpress Development**
 
 - 🌱 I’m currently learning **C++, Python.**
 
