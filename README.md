@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **amitavrchy01@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XiVS70rHlDCizCcWJTE7HqyBk3ywnunL/view](https://drive.google.com/file/d/1XiVS70rHlDCizCcWJTE7HqyBk3ywnunL/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1XiVS70rHlDCizCcWJTE7HqyBk3ywnunL/view](https://drive.google.com/file/d/1Pm9p5Dvbr5icWxYPjmZp8G6LMNAyYpMq/view?usp=sharing)
 
 - ⚡ Fun fact **I did not know how to add a readme at first.**
 
