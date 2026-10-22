@@ -1,7 +1,7 @@
 
 <div align="center">
 
-![Profile Banner](https://github.com/amitavrchy/amitavrchy/assets/155712340/be77d77c-36e0-4aec-b349-90606fb48c2b)
+![Amitav Roy Chowdhury Banner](./Amitav%20Roy%20Chowdhury%20Tech%20Workspace.png)
 
 # Hi 👋, I'm Amitav Roy Chowdhury
 
