@@ -201,6 +201,4 @@ I'm open to opportunities involving:
 
 ### 💻 Building Experiences. Engineering Systems. Automating the Future.
 
-![Profile Views](https://komarev.com/ghpvc/?username=amitavrchy&color=blueviolet&style=flat-square)
-
 </div>
